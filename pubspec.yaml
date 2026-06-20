@@ -1,0 +1,57 @@
+name: seruput
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.2.1
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo_seruput.png
+    - assets/images/onboarding_product.png
+    - assets/images/onboarding_process.png
+    - assets/images/onboarding_experience.png
+    - assets/images/akses_customer.png
+    - assets/images/akses_kasir.png
+    - assets/images/akses_dapur.png
+    - assets/images/akses_owner.png
+    - assets/images/menu_kopi_hitam.jpg
+    - assets/images/menu_cappuccino.jpg
+    - assets/images/menu_sparkling_tea.jpg
+    - assets/images/menu_matcha_latte.jpg
+    - assets/images/menu_chocolate_milk.jpg
+    - assets/images/menu_lemon_tea.jpg
+    - assets/images/menu_caramel_macchiato.jpg
+    - assets/images/menu_batagor.jpg
+    - assets/images/menu_cireng.jpg
+    - assets/images/menu_nasi_goreng.jpg
+    - assets/images/menu_mie_goreng.jpg
+    - assets/images/menu_chicken_katsu.jpg
+    - assets/images/menu_french_fries.jpg
+    - assets/images/menu_dimsum.jpg
+    - assets/images/menu_cheesecake.jpg
+    - assets/images/menu_brownies.jpg
+    - assets/images/menu_pancake.jpg
+    - assets/images/menu_waffle.jpg
+    - assets/images/menu_donat.jpg
+    - assets/images/menu_pudding.jpg
+    - assets/images/menu_banana_split.jpg
+    - assets/images/kucing_kasir.png
+    - assets/images/kucing_dapur.png
