@@ -5,4 +5,5 @@ A new Flutter project.
 ## Getting Started
 
 
-![image alt]([image_url](https://github.com/mnmariyanaa-star/seruput-coffe/blob/79500e927964b548ff5f03546d87f134fb936152/seruput.png)
+![image alt](<img width="1672" height="941" alt="seruput" src="https://github.com/user-attachments/assets/41478f87-5827-4fee-bfa7-1990055428a7" />
+)
